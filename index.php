@@ -202,7 +202,7 @@ include('includes/connect.php');
 </div>
 
 <!------------------last child-------->
-<div class="bg-info p-3 text-center">
+<div class="bg-warning p-3 text-center">
   <p>All rights reserved  &#169 Designed by David-2023</p>
 </div>
 
